@@ -28,8 +28,8 @@ Inspired by _Vampire Survivors_, the game is a team project developed under CMS-
 TEA TEST ML copy 6/
 ├── Assets/                     # Unity scenes, scripts, prefabs, UI
 │   ├── MLAgents/              # Agent behaviors and settings
-│   ├── Scenes/                # Game.unity
-│   └── Scripts/               # CrimsonPact.cs, GameManager.cs, etc.
+│   ├── Scenes/                # Game.unity scenes
+│   └── Scripts/               # Scripts: CrimsonPact.cs, GameManager.cs, etc
 │
 ├── Packages/                  # Unity package dependencies
 ├── ProjectSettings/           # Unity build, tag/layer, and input settings
