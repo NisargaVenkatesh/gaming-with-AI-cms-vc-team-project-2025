@@ -134,12 +134,3 @@ You may adapt it for personal or educational use with proper credit.
 - All training parameters are configurable in `player_config.yaml`.
 
 ---
-
-## Screenshots
-
-> _(Optional: Add images in `/results/` folder and use Markdown like below)_
-
-```markdown
-![Main Menu](results/screenshots/main_menu.png)
-![Gameplay](results/screenshots/gameplay1.png)
-```
