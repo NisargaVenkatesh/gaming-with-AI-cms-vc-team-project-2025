@@ -1,0 +1,26 @@
+# Unity generated folders
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+MemoryCaptures/
+.DS_Store
+.vscode/
+.idea/
+
+# Python venv and Jupyter artifacts
+mlagentvenv/
+*.pyc
+__pycache__/
+.ipynb_checkpoints/
+.env
+*.egg-info/
+
+# System files
+*.suo
+*.user
+*.userprefs
+*.csproj
+*.sln

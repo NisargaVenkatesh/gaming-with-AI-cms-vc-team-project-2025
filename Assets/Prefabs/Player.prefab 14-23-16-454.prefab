@@ -1,0 +1,851 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &169987938729326925
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 321602884960262574}
+  m_Layer: 6
+  m_Name: Weapons
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &321602884960262574
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 169987938729326925}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 1648077384643665850}
+  - {fileID: 6010542032338832549}
+  - {fileID: 3725595415400438151}
+  - {fileID: 2132622268804779004}
+  m_Father: {fileID: 6820276419408078498}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &3186278647433914315
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 3725595415400438151}
+  - component: {fileID: 2061677195326106523}
+  m_Layer: 6
+  m_Name: Piercing Strike
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 0
+--- !u!4 &3725595415400438151
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3186278647433914315}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0.5, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 321602884960262574}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &2061677195326106523
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3186278647433914315}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: acb2f13ba12d14d39ab53e92354728ce, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  weaponID: c
+  weaponLevel: 0
+  stats:
+  - cooldown: 1.2
+    duration: 3
+    damage: 40
+    range: 1
+    speed: 5
+    amount: 1
+    description: 2 casts
+  - cooldown: 1.2
+    duration: 3
+    damage: 40
+    range: 1
+    speed: 5
+    amount: 2
+    description: 3 casts
+  - cooldown: 1.2
+    duration: 3
+    damage: 40
+    range: 1
+    speed: 5
+    amount: 3
+    description: 4 casts
+  - cooldown: 1.2
+    duration: 3
+    damage: 40
+    range: 1
+    speed: 5
+    amount: 4
+    description: 5 casts
+  - cooldown: 1.2
+    duration: 3
+    damage: 40
+    range: 1
+    speed: 5
+    amount: 5
+    description: 6 casts
+  - cooldown: 1.2
+    duration: 3
+    damage: 40
+    range: 1
+    speed: 5
+    amount: 6
+    description: 7 casts
+  - cooldown: 1.2
+    duration: 3
+    damage: 40
+    range: 1
+    speed: 5
+    amount: 7
+    description: 8 casts
+  - cooldown: 1.2
+    duration: 3
+    damage: 40
+    range: 1
+    speed: 5
+    amount: 8
+    description: Faster Cast
+  - cooldown: 1
+    duration: 4
+    damage: 40
+    range: 1
+    speed: 6
+    amount: 8
+    description: Stronger Cast
+  - cooldown: 1
+    duration: 3
+    damage: 40
+    range: 1
+    speed: 8
+    amount: 8
+    description: Cast Final Form
+  - cooldown: 0.8
+    duration: 3
+    damage: 60
+    range: 1
+    speed: 8
+    amount: 8
+    description: Final
+  weaponImage: {fileID: 8981041623332558862, guid: 67db496dd295b45b7bd209f0a88d1f98, type: 3}
+  basicDescription: Shoot a piercing strike
+  prefab: {fileID: 4479857793517618292, guid: 5c65cd5c9c3ef4f16b9982f928b3c998, type: 3}
+  burstDelay: 0.07
+  activationRange: 10
+--- !u!1 &3481073562346340298
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 6010542032338832549}
+  - component: {fileID: 5987252585480965446}
+  m_Layer: 6
+  m_Name: Fire Shield
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 0
+--- !u!4 &6010542032338832549
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3481073562346340298}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0.5, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 321602884960262574}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &5987252585480965446
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3481073562346340298}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 29b47e42bfaf54afdb992425f2d5aad0, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  weaponID: b
+  weaponLevel: 0
+  stats:
+  - cooldown: 5
+    duration: 2.75
+    damage: 40
+    range: 5
+    speed: 0.45
+    amount: 0
+    description: Damage +20
+  - cooldown: 5
+    duration: 2.75
+    damage: 60
+    range: 5
+    speed: 0.45
+    amount: 0
+    description: Increased Range
+  - cooldown: 5
+    duration: 2.75
+    damage: 60
+    range: 6
+    speed: 0.45
+    amount: 0
+    description: Faster Damage
+  - cooldown: 5
+    duration: 2.75
+    damage: 60
+    range: 6
+    speed: 0.4
+    amount: 0
+    description: Increased Range
+  - cooldown: 5
+    duration: 2.75
+    damage: 60
+    range: 7
+    speed: 0.4
+    amount: 0
+    description: Damage +20
+  - cooldown: 5
+    duration: 2.75
+    damage: 80
+    range: 7
+    speed: 0.4
+    amount: 0
+    description: Reduced Cooldown
+  - cooldown: 4
+    duration: 2.75
+    damage: 80
+    range: 7
+    speed: 0.4
+    amount: 0
+    description: Increased Range
+  - cooldown: 4
+    duration: 2.75
+    damage: 80
+    range: 8
+    speed: 0.4
+    amount: 0
+    description: Faster Damage
+  - cooldown: 4
+    duration: 2.75
+    damage: 80
+    range: 7
+    speed: 0.35
+    amount: 0
+    description: Increased Range
+  - cooldown: 4
+    duration: 2.75
+    damage: 80
+    range: 8
+    speed: 0.35
+    amount: 0
+    description: Cast Final Form
+  - cooldown: 3.5
+    duration: 2.75
+    damage: 100
+    range: 9
+    speed: 0.35
+    amount: 0
+    description: Final
+  weaponImage: {fileID: 3900243928403206662, guid: 4119c3a76779349c5907e7e9825e9bc3, type: 3}
+  basicDescription: You cast a shield of fire
+  prefab: {fileID: 464533441488601255, guid: f5c874ed2962d41f48d682bf06b1cd29, type: 3}
+--- !u!1 &5240632945674229524
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2132622268804779004}
+  - component: {fileID: 2282201035350348438}
+  m_Layer: 6
+  m_Name: Lightning Strike
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 0
+--- !u!4 &2132622268804779004
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5240632945674229524}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0.5, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 321602884960262574}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &2282201035350348438
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5240632945674229524}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f8a5599ec656b48489f8e8c8150df6e6, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  weaponID: d
+  weaponLevel: 0
+  stats:
+  - cooldown: 3
+    duration: 1
+    damage: 60
+    range: 1
+    speed: 5
+    amount: 1
+    description: 2 casts
+  - cooldown: 3
+    duration: 1
+    damage: 60
+    range: 1
+    speed: 5
+    amount: 2
+    description: 3 casts
+  - cooldown: 3
+    duration: 1
+    damage: 60
+    range: 1
+    speed: 5
+    amount: 3
+    description: 4 casts
+  - cooldown: 3
+    duration: 1
+    damage: 60
+    range: 1
+    speed: 5
+    amount: 4
+    description: 5 casts
+  - cooldown: 3
+    duration: 1
+    damage: 60
+    range: 1
+    speed: 5
+    amount: 5
+    description: Larger Cast
+  - cooldown: 3
+    duration: 1
+    damage: 60
+    range: 1.5
+    speed: 5
+    amount: 5
+    description: Faster Cast
+  - cooldown: 2.7
+    duration: 1
+    damage: 60
+    range: 1.5
+    speed: 5
+    amount: 5
+    description: Damage +20
+  - cooldown: 2.7
+    duration: 1
+    damage: 80
+    range: 1.5
+    speed: 5
+    amount: 5
+    description: Damage +20
+  - cooldown: 2.7
+    duration: 1
+    damage: 100
+    range: 1.5
+    speed: 5
+    amount: 5
+    description: Faster Cast
+  - cooldown: 2.5
+    duration: 1
+    damage: 100
+    range: 1.5
+    speed: 5
+    amount: 5
+    description: Cast Final Form
+  - cooldown: 2.4
+    duration: 1
+    damage: 120
+    range: 1.7
+    speed: 5
+    amount: 6
+    description: Final
+  weaponImage: {fileID: -7997413134559260832, guid: c396295140dd64a16b27a49934d02508, type: 3}
+  basicDescription: Random lightning strikes
+  thunderStrikePrefab: {fileID: 1448555576708681458, guid: 7b82f289048184904900641b1fa6a2c8, type: 3}
+  burstDelay: 0.25
+  activationRange: 6
+--- !u!1 &7607686934379996955
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1648077384643665850}
+  - component: {fileID: 3790048777626365375}
+  m_Layer: 6
+  m_Name: Fireball
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 0
+--- !u!4 &1648077384643665850
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7607686934379996955}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0.5, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 321602884960262574}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &3790048777626365375
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7607686934379996955}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2267476039d488c43814c4078acc0f29, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  weaponID: a
+  weaponLevel: 0
+  stats:
+  - cooldown: 1.2
+    duration: 3
+    damage: 60
+    range: 1
+    speed: 5
+    amount: 1
+    description: 2 balls
+  - cooldown: 1.2
+    duration: 3
+    damage: 60
+    range: 1
+    speed: 5
+    amount: 2
+    description: 3 balls
+  - cooldown: 1.2
+    duration: 3
+    damage: 60
+    range: 1
+    speed: 5
+    amount: 3
+    description: 4 balls
+  - cooldown: 1.2
+    duration: 3
+    damage: 60
+    range: 1
+    speed: 5
+    amount: 4
+    description: 5 balls
+  - cooldown: 1.2
+    duration: 3
+    damage: 60
+    range: 1
+    speed: 5
+    amount: 5
+    description: 6 balls
+  - cooldown: 1.2
+    duration: 3
+    damage: 60
+    range: 1
+    speed: 5
+    amount: 6
+    description: 7 balls
+  - cooldown: 1.2
+    duration: 3
+    damage: 60
+    range: 1
+    speed: 5
+    amount: 7
+    description: 8 balls
+  - cooldown: 1.2
+    duration: 3
+    damage: 60
+    range: 1
+    speed: 5
+    amount: 8
+    description: Faster Cast
+  - cooldown: 1
+    duration: 4
+    damage: 60
+    range: 1
+    speed: 6
+    amount: 8
+    description: Stronger Cast
+  - cooldown: 1
+    duration: 4
+    damage: 60
+    range: 1
+    speed: 8
+    amount: 8
+    description: Cast Final Form
+  - cooldown: 0.8
+    duration: 4
+    damage: 80
+    range: 1
+    speed: 8
+    amount: 8
+    description: Final
+  weaponImage: {fileID: -3281901555716543213, guid: 4119c3a76779349c5907e7e9825e9bc3, type: 3}
+  basicDescription: Shoot a fireball
+  prefab: {fileID: 8498109826325136494, guid: 534dd4bd35eeb407f95247b6b75295ce, type: 3}
+  burstDelay: 0.08
+  activationRange: 10
+--- !u!1 &8100236151912883039
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 6820276419408078498}
+  - component: {fileID: 2203214966375738688}
+  - component: {fileID: 6271098712434223353}
+  - component: {fileID: 2826388349722098928}
+  - component: {fileID: 4778236951885907809}
+  - component: {fileID: 7265291274075342077}
+  - component: {fileID: 1321888204195148404}
+  - component: {fileID: 1479349750967893187}
+  - component: {fileID: 7339216959815514925}
+  m_Layer: 6
+  m_Name: Player
+  m_TagString: Player
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &6820276419408078498
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8100236151912883039}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: -2.2440026, y: -2.5010514, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 321602884960262574}
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!212 &2203214966375738688
+SpriteRenderer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8100236151912883039}
+  m_Enabled: 1
+  m_CastShadows: 0
+  m_ReceiveShadows: 0
+  m_DynamicOccludee: 1
+  m_StaticShadowCaster: 0
+  m_MotionVectors: 1
+  m_LightProbeUsage: 1
+  m_ReflectionProbeUsage: 1
+  m_RayTracingMode: 0
+  m_RayTraceProcedural: 0
+  m_RayTracingAccelStructBuildFlagsOverride: 0
+  m_RayTracingAccelStructBuildFlags: 1
+  m_SmallMeshCulling: 1
+  m_RenderingLayerMask: 1
+  m_RendererPriority: 0
+  m_Materials:
+  - {fileID: 2100000, guid: a97c105638bdf8b4a8650670310a4cd3, type: 2}
+  m_StaticBatchInfo:
+    firstSubMesh: 0
+    subMeshCount: 0
+  m_StaticBatchRoot: {fileID: 0}
+  m_ProbeAnchor: {fileID: 0}
+  m_LightProbeVolumeOverride: {fileID: 0}
+  m_ScaleInLightmap: 1
+  m_ReceiveGI: 1
+  m_PreserveUVs: 0
+  m_IgnoreNormalsForChartDetection: 0
+  m_ImportantGI: 0
+  m_StitchLightmapSeams: 1
+  m_SelectedEditorRenderState: 0
+  m_MinimumChartSize: 4
+  m_AutoUVMaxDistance: 0.5
+  m_AutoUVMaxAngle: 89
+  m_LightmapParameters: {fileID: 0}
+  m_SortingLayerID: 482736591
+  m_SortingLayer: 3
+  m_SortingOrder: 0
+  m_Sprite: {fileID: 4773514653529381359, guid: 2ae45b82cb5ea4f4290aef16fc2fcfe2, type: 3}
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_FlipX: 0
+  m_FlipY: 0
+  m_DrawMode: 0
+  m_Size: {x: 1, y: 1}
+  m_AdaptiveModeThreshold: 0.5
+  m_SpriteTileMode: 0
+  m_WasSpriteAssigned: 1
+  m_MaskInteraction: 0
+  m_SpriteSortPoint: 1
+--- !u!95 &6271098712434223353
+Animator:
+  serializedVersion: 7
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8100236151912883039}
+  m_Enabled: 1
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: c2949505a49014726b413cefbfd823eb, type: 2}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_StabilizeFeet: 0
+  m_AnimatePhysics: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
+  m_KeepAnimatorStateOnDisable: 0
+  m_WriteDefaultValuesOnDisable: 0
+--- !u!114 &2826388349722098928
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8100236151912883039}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 88f133e310b694e45823c2f20ed1b745, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  rb: {fileID: 4778236951885907809}
+  animator: {fileID: 6271098712434223353}
+  moveSpeed: 3
+  playerMoveDirection: {x: 0, y: 0, z: 0}
+  lastMoveDirection: {x: 0, y: 0, z: 0}
+  playerMaxHealth: 100
+  playerHealth: 0
+  experience: 0
+  currentLevel: 1
+  maxLevel: 30
+  inactiveWeapons:
+  - {fileID: 5987252585480965446}
+  - {fileID: 3790048777626365375}
+  - {fileID: 2061677195326106523}
+  - {fileID: 2282201035350348438}
+  activeWeapons: []
+  upgradeableWeapons: []
+  maxLevelWeapons: []
+  startingWeapon: {fileID: 3790048777626365375}
+  immunityDuration: 1
+  immunityTimer: 0
+  playerLevels: 0a000000140000001e000000
+--- !u!50 &4778236951885907809
+Rigidbody2D:
+  serializedVersion: 5
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8100236151912883039}
+  m_BodyType: 0
+  m_Simulated: 1
+  m_UseFullKinematicContacts: 0
+  m_UseAutoMass: 0
+  m_Mass: 6
+  m_LinearDamping: 0
+  m_AngularDamping: 0.05
+  m_GravityScale: 0
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_Interpolate: 0
+  m_SleepingMode: 1
+  m_CollisionDetection: 0
+  m_Constraints: 4
+--- !u!70 &7265291274075342077
+CapsuleCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8100236151912883039}
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_ForceSendLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_ForceReceiveLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_ContactCaptureLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_CallbackLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_IsTrigger: 0
+  m_UsedByEffector: 0
+  m_CompositeOperation: 0
+  m_CompositeOrder: 0
+  m_Offset: {x: 0.004630959, y: 0.29536936}
+  m_Size: {x: 0.8073902, y: 0.5722167}
+  m_Direction: 1
+--- !u!114 &1321888204195148404
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8100236151912883039}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5d1c4e0b1822b495aa52bc52839ecb30, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_BrainParameters:
+    VectorObservationSize: 27
+    NumStackedVectorObservations: 1
+    m_ActionSpec:
+      m_NumContinuousActions: 2
+      BranchSizes: 04000000
+    VectorActionSize: 
+    VectorActionDescriptions: []
+    VectorActionSpaceType: 1
+    hasUpgradedBrainParametersWithActionSpec: 1
+  m_Model: {fileID: 0}
+  m_InferenceDevice: 0
+  m_BehaviorType: 1
+  m_BehaviorName: CrimsonAgent
+  TeamId: 0
+  m_UseChildSensors: 1
+  m_UseChildActuators: 1
+  m_DeterministicInference: 0
+  m_ObservableAttributeHandling: 0
+--- !u!114 &1479349750967893187
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8100236151912883039}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ae20fa784ee41452dbb559f7a4555c15, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  agentParameters:
+    maxStep: 0
+  hasUpgradedFromAgentParameters: 1
+  MaxStep: 0
+  maxEnemyDistance: 20
+  boundaryTilemap: {fileID: 0}
+  obstacleTilemaps:
+  - {fileID: 0}
+  obstacleColliders:
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  rewardFromWall: 0
+  rewardFromEnemy: 0
+  rewardFromMovement: 0
+  rewardFromLevelUp: 0
+  rewardFromSurvival: 0
+  rewardFromDeath: 0
+  rewardFromObstacle: 0
+  rewardFromEnemyDamage: 0
+  rewardFromEscape: 0
+--- !u!114 &7339216959815514925
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8100236151912883039}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3a5c9d521e5ef4759a8246a07d52221e, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  DecisionPeriod: 5
+  DecisionStep: 0
+  TakeActionsBetweenDecisions: 1

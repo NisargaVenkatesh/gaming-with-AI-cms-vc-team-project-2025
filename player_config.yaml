@@ -1,0 +1,22 @@
+behaviors:
+  CrimsonAgent:
+    trainer_type: ppo
+    hyperparameters:
+      batch_size: 512
+      buffer_size: 8192
+      learning_rate: 2.0e-4
+      beta: 5.0e-4
+      epsilon: 0.15
+      lambd: 0.95
+      num_epoch: 6
+    network_settings:
+      normalize: true
+      hidden_units: 384
+      num_layers: 2
+    reward_signals:
+      extrinsic:
+        gamma: 0.99
+        strength: 1.0
+    max_steps: 15000000
+    time_horizon: 128
+    summary_freq: 1000

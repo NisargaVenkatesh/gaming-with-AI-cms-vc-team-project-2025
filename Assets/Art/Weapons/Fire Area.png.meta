@@ -1,0 +1,1180 @@
+fileFormatVersion: 2
+guid: e9844831355f34210964e3642bf2b176
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 451583806320811785
+    second: FireCast_96x96_0
+  - first:
+      213: 5637180927521752076
+    second: FireCast_96x96_1
+  - first:
+      213: 2133156031428349418
+    second: FireCast_96x96_2
+  - first:
+      213: 2089938720789214611
+    second: FireCast_96x96_3
+  - first:
+      213: -8184163744975168123
+    second: FireCast_96x96_4
+  - first:
+      213: -5548035536037470566
+    second: FireCast_96x96_5
+  - first:
+      213: -6490788091110716182
+    second: FireCast_96x96_6
+  - first:
+      213: -2405701112375571588
+    second: FireCast_96x96_7
+  - first:
+      213: 7669999837971948457
+    second: FireCast_96x96_8
+  - first:
+      213: -8119611040998623043
+    second: FireCast_96x96_9
+  - first:
+      213: 2530786843837199529
+    second: FireCast_96x96_10
+  - first:
+      213: -4177927552145032921
+    second: FireCast_96x96_11
+  - first:
+      213: -7163960715263297063
+    second: FireCast_96x96_12
+  - first:
+      213: -8090195832044567924
+    second: FireCast_96x96_13
+  - first:
+      213: -3326477681312864745
+    second: FireCast_96x96_14
+  - first:
+      213: 2904962599404355289
+    second: FireCast_96x96_15
+  - first:
+      213: 2334992627031453324
+    second: FireCast_96x96_16
+  - first:
+      213: 291368313096282255
+    second: FireCast_96x96_17
+  - first:
+      213: 3161046798052696281
+    second: FireCast_96x96_18
+  - first:
+      213: 4938563834539561791
+    second: FireCast_96x96_19
+  - first:
+      213: 5333504898222155333
+    second: FireCast_96x96_20
+  - first:
+      213: 95600463505432403
+    second: FireCast_96x96_21
+  - first:
+      213: -8046093071959626447
+    second: FireCast_96x96_22
+  - first:
+      213: -2800260407392656236
+    second: FireCast_96x96_23
+  - first:
+      213: 8029464265836351406
+    second: FireCast_96x96_24
+  - first:
+      213: -6267756580174259454
+    second: FireCast_96x96_25
+  - first:
+      213: -595979147417449230
+    second: FireCast_96x96_26
+  - first:
+      213: 6550516568670366722
+    second: FireCast_96x96_27
+  - first:
+      213: -8632716310467992216
+    second: FireCast_96x96_28
+  - first:
+      213: -4360607319862678002
+    second: FireCast_96x96_29
+  - first:
+      213: 5021609731438424545
+    second: FireCast_96x96_30
+  - first:
+      213: 3617396183608392958
+    second: FireCast_96x96_31
+  - first:
+      213: -6756173833678064149
+    second: FireCast_96x96_32
+  - first:
+      213: 4171666469717426022
+    second: FireCast_96x96_33
+  - first:
+      213: -4056959739069338374
+    second: FireCast_96x96_34
+  - first:
+      213: -5658871144724792077
+    second: FireCast_96x96_35
+  - first:
+      213: -278163804252625
+    second: FireCast_96x96_36
+  - first:
+      213: 8407457236264826284
+    second: FireCast_96x96_37
+  - first:
+      213: 6527493756778250305
+    second: FireCast_96x96_38
+  - first:
+      213: 8892233055571315390
+    second: FireCast_96x96_39
+  - first:
+      213: -2657928787402440196
+    second: FireCast_96x96_40
+  - first:
+      213: -1561954511528895238
+    second: FireCast_96x96_41
+  - first:
+      213: -2114125145579942510
+    second: FireCast_96x96_42
+  - first:
+      213: -5404220976918284631
+    second: FireCast_96x96_43
+  - first:
+      213: -2542042491322888613
+    second: FireCast_96x96_44
+  - first:
+      213: 7606601359370991864
+    second: FireCast_96x96_45
+  - first:
+      213: 7449237051552134958
+    second: FireCast_96x96_46
+  - first:
+      213: 6737939431868149781
+    second: FireCast_96x96_47
+  - first:
+      213: 4571977108569053488
+    second: FireCast_96x96_48
+  - first:
+      213: 2088461213662980622
+    second: FireCast_96x96_49
+  - first:
+      213: 7931504451997004158
+    second: FireCast_96x96_50
+  - first:
+      213: -8447115130984927676
+    second: FireCast_96x96_51
+  - first:
+      213: -6837934213486231136
+    second: FireCast_96x96_52
+  - first:
+      213: 6978071171129329170
+    second: FireCast_96x96_53
+  - first:
+      213: 7836387782511016113
+    second: FireCast_96x96_54
+  - first:
+      213: 8649449786665562042
+    second: FireCast_96x96_55
+  - first:
+      213: -8658823718754141836
+    second: FireCast_96x96_56
+  - first:
+      213: 8462888301113355334
+    second: FireCast_96x96_57
+  - first:
+      213: 4574807288867727329
+    second: FireCast_96x96_58
+  - first:
+      213: 8011026635738760721
+    second: FireCast_96x96_59
+  - first:
+      213: -5992827652449258841
+    second: FireCast_96x96_60
+  - first:
+      213: -3532808518532404286
+    second: FireCast_96x96_61
+  - first:
+      213: -6551447209462457941
+    second: FireCast_96x96_62
+  - first:
+      213: 8050374948981586540
+    second: FireCast_96x96_63
+  - first:
+      213: -8234857856125979597
+    second: FireCast_96x96_64
+  - first:
+      213: 4105754324463085802
+    second: FireCast_96x96_65
+  - first:
+      213: 8727559289724682936
+    second: FireCast_96x96_66
+  - first:
+      213: 2929569787910400203
+    second: FireCast_96x96_67
+  - first:
+      213: 7852175197280224168
+    second: FireCast_96x96_68
+  - first:
+      213: 6954008982546203251
+    second: FireCast_96x96_69
+  - first:
+      213: -8155129943412938854
+    second: FireCast_96x96_70
+  - first:
+      213: -7518958458584157197
+    second: FireCast_96x96_71
+  - first:
+      213: 4341408029490902396
+    second: FireCast_96x96_72
+  - first:
+      213: -5150291847325289699
+    second: FireCast_96x96_73
+  - first:
+      213: 7320094203813424270
+    second: FireCast_96x96_74
+  - first:
+      213: -5709730324199844829
+    second: FireCast_96x96_75
+  - first:
+      213: 4612113304307153513
+    second: FireCast_96x96_76
+  - first:
+      213: -385664638978639671
+    second: FireCast_96x96_77
+  - first:
+      213: 2948997118834514780
+    second: FireCast_96x96_78
+  - first:
+      213: -7673239672733878086
+    second: FireCast_96x96_79
+  - first:
+      213: 7277387080466895918
+    second: FireCast_96x96_80
+  - first:
+      213: 4401356769271454864
+    second: FireCast_96x96_81
+  - first:
+      213: -2717330323719682913
+    second: FireCast_96x96_82
+  - first:
+      213: 825289854658001177
+    second: FireCast_96x96_83
+  - first:
+      213: 4844832816329895058
+    second: FireCast_96x96_84
+  - first:
+      213: 5780891463019808950
+    second: FireCast_96x96_85
+  - first:
+      213: -118387704123495331
+    second: FireCast_96x96_86
+  - first:
+      213: -1722178791690672401
+    second: FireCast_96x96_87
+  - first:
+      213: -8512957875201470097
+    second: FireCast_96x96_88
+  - first:
+      213: 8629439914580194662
+    second: FireCast_96x96_89
+  - first:
+      213: 4649184679124992981
+    second: FireCast_96x96_90
+  - first:
+      213: 4780068341992413006
+    second: FireCast_96x96_91
+  - first:
+      213: 173025854205450491
+    second: FireCast_96x96_92
+  - first:
+      213: -7624021038931908464
+    second: FireCast_96x96_93
+  - first:
+      213: 3679202856968368589
+    second: FireCast_96x96_94
+  - first:
+      213: 8858902368462575296
+    second: FireCast_96x96_95
+  - first:
+      213: -473994367037862364
+    second: FireCast_96x96_96
+  - first:
+      213: -2140169859300090378
+    second: FireCast_96x96_97
+  - first:
+      213: 1087150927827274170
+    second: FireCast_96x96_98
+  - first:
+      213: -3801099319466743594
+    second: FireCast_96x96_99
+  - first:
+      213: -2504964048085791332
+    second: FireCast_96x96_100
+  - first:
+      213: -8954791029615447664
+    second: FireCast_96x96_101
+  - first:
+      213: -3219825975162114265
+    second: FireCast_96x96_102
+  - first:
+      213: -8688542409862837385
+    second: FireCast_96x96_103
+  - first:
+      213: -232050834307734224
+    second: FireCast_96x96_104
+  - first:
+      213: -1614375824377253151
+    second: FireCast_96x96_105
+  - first:
+      213: 1312653850467904610
+    second: FireCast_96x96_106
+  - first:
+      213: 408895276207499614
+    second: FireCast_96x96_107
+  - first:
+      213: -6124921919034487067
+    second: FireCast_96x96_108
+  - first:
+      213: 6212264904199446827
+    second: FireCast_96x96_109
+  - first:
+      213: 7279013495417856798
+    second: FireCast_96x96_110
+  - first:
+      213: 3929634238689280726
+    second: FireCast_96x96_111
+  - first:
+      213: 516134332029371749
+    second: FireCast_96x96_112
+  - first:
+      213: 7506063924713219496
+    second: FireCast_96x96_113
+  - first:
+      213: -4757329854884775674
+    second: FireCast_96x96_114
+  - first:
+      213: 406600006205911495
+    second: FireCast_96x96_115
+  - first:
+      213: -3599300457120840275
+    second: FireCast_96x96_116
+  - first:
+      213: 1883580027763964437
+    second: FireCast_96x96_117
+  - first:
+      213: -8792369273770515342
+    second: FireCast_96x96_118
+  - first:
+      213: -4316418242537440370
+    second: FireCast_96x96_119
+  - first:
+      213: 4156960942093934257
+    second: FireCast_96x96_120
+  - first:
+      213: 9087740265288408463
+    second: FireCast_96x96_121
+  - first:
+      213: -1157558974878984700
+    second: FireCast_96x96_122
+  - first:
+      213: -8405989471818309464
+    second: FireCast_96x96_123
+  - first:
+      213: 5365566122095940101
+    second: FireCast_96x96_124
+  - first:
+      213: 5598105502151208748
+    second: FireCast_96x96_125
+  - first:
+      213: -3718172947366912593
+    second: FireCast_96x96_126
+  - first:
+      213: 3653827771824041556
+    second: FireCast_96x96_127
+  - first:
+      213: -1614183136772105656
+    second: FireCast_96x96_128
+  - first:
+      213: -726934596661214198
+    second: FireCast_96x96_129
+  - first:
+      213: -2908721941342946390
+    second: FireCast_96x96_130
+  - first:
+      213: 1419952675700734839
+    second: FireCast_96x96_131
+  - first:
+      213: -656179458827511140
+    second: FireCast_96x96_132
+  - first:
+      213: -2413508189882817992
+    second: FireCast_96x96_133
+  - first:
+      213: 3039943151159093732
+    second: FireCast_96x96_134
+  - first:
+      213: -2434151427924221149
+    second: FireCast_96x96_135
+  - first:
+      213: 6012772668299619737
+    second: FireCast_96x96_136
+  - first:
+      213: -4960430452261837461
+    second: FireCast_96x96_137
+  - first:
+      213: 5570843111358099526
+    second: FireCast_96x96_138
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Fire Area_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e0bcfc6d0f8e4a52ad7c876fee61275
+      internalID: -1986063192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire Area_1
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 0
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 882fe0f0dfcc84eb68c80890ecda3ed2
+      internalID: 1265533541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire Area_2
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 0
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be0068f75819f40efba2a11ce3a91f12
+      internalID: 605126407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire Area_3
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 0
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9db3697cfa1124e3082a6926590dcf20
+      internalID: 248810671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire Area_4
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 0
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af5127337b744482aa2eddfb92fd5e49
+      internalID: 1627754182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire Area_5
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 0
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55daa78d68ff2471b9bbb7e2a60d3ba9
+      internalID: -668447782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire Area_6
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 0
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 920efbd5f1c4744219e531eb7ba99f15
+      internalID: -663879616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire Area_7
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 0
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76817f091b27b4c4cac3bf99be278712
+      internalID: 2118504893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire Area_8
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 0
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0444c46e138a04741be82a7ce6f20975
+      internalID: -1215743374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire Area_9
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 0
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff3011bb5a433404dbc04256cfa7e89f
+      internalID: 1838403707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire Area_10
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 0
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39894de80e3d24043a6a07dd06292fd9
+      internalID: -559118584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire Area_11
+      rect:
+        serializedVersion: 2
+        x: 1056
+        y: 0
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f57d79c5fb37747e795e93623c677604
+      internalID: -3143124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire Area_12
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 0
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 921f6c3a0599a40198fe77006caf371d
+      internalID: -439590994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire Area_13
+      rect:
+        serializedVersion: 2
+        x: 1248
+        y: 0
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61460c3e1f604401baabe87a8e38cc05
+      internalID: -1512831104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire Area_14
+      rect:
+        serializedVersion: 2
+        x: 1344
+        y: 0
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa4f515a050ec40cf8be60e43e86567a
+      internalID: -706293150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire Area_15
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 0
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 168bbed3cc2344e0b9fd9a7b8a982d98
+      internalID: -549614570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire Area_16
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 0
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc2d1f8ed2c9b4f31859d01ac854dd1b
+      internalID: 253772288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire Area_17
+      rect:
+        serializedVersion: 2
+        x: 1632
+        y: 0
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c12af224b3086448f95244ea97b63d71
+      internalID: -1244780899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire Area_18
+      rect:
+        serializedVersion: 2
+        x: 1728
+        y: 0
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 850c20561e3c24d80b4add85d58a8063
+      internalID: 2122832812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire Area_19
+      rect:
+        serializedVersion: 2
+        x: 1824
+        y: 0
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d23a54b6e420345f8b451964c3da8b1e
+      internalID: 2086025787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire Area_20
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 0
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b859f816ae625402abc378f63f9e2a15
+      internalID: -1778805204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire Area_21
+      rect:
+        serializedVersion: 2
+        x: 2016
+        y: 0
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c25455d3e4aa4c1c9b910f74aa4d1d5
+      internalID: -1621806710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire Area_22
+      rect:
+        serializedVersion: 2
+        x: 2112
+        y: 0
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54c6b8dccc1954bceb1f248f102b19fb
+      internalID: -567051542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire Area_23
+      rect:
+        serializedVersion: 2
+        x: 2208
+        y: 0
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c908b8d4cab4247b389d4756d8b07cd7
+      internalID: -1539620374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire Area_24
+      rect:
+        serializedVersion: 2
+        x: 2304
+        y: 0
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cccfd596a81940e5aa328981f1e4d52
+      internalID: 1250314493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire Area_25
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 0
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b92b50686df104483a49b659b6eb89b5
+      internalID: -802027851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire Area_26
+      rect:
+        serializedVersion: 2
+        x: 2496
+        y: 0
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12a5900bca8f64d0890fa1ed584db5ff
+      internalID: -2110320492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire Area_27
+      rect:
+        serializedVersion: 2
+        x: 2592
+        y: 0
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02dbfc1e08f314798b764acdd07cffb7
+      internalID: -1200070347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: edc49e9bb10624d42a3fef2f1d9183ab
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":96.0,"y":96.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"autoSlicingMethod":0,"spriteAlignment":0,"slicingType":1,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      Fire Area_0: -1986063192
+      Fire Area_1: 1265533541
+      Fire Area_10: -559118584
+      Fire Area_11: -3143124
+      Fire Area_12: -439590994
+      Fire Area_13: -1512831104
+      Fire Area_14: -706293150
+      Fire Area_15: -549614570
+      Fire Area_16: 253772288
+      Fire Area_17: -1244780899
+      Fire Area_18: 2122832812
+      Fire Area_19: 2086025787
+      Fire Area_2: 605126407
+      Fire Area_20: -1778805204
+      Fire Area_21: -1621806710
+      Fire Area_22: -567051542
+      Fire Area_23: -1539620374
+      Fire Area_24: 1250314493
+      Fire Area_25: -802027851
+      Fire Area_26: -2110320492
+      Fire Area_27: -1200070347
+      Fire Area_3: 248810671
+      Fire Area_4: 1627754182
+      Fire Area_5: -668447782
+      Fire Area_6: -663879616
+      Fire Area_7: 2118504893
+      Fire Area_8: -1215743374
+      Fire Area_9: 1838403707
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
