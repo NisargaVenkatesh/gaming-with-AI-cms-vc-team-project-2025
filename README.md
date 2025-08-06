@@ -116,8 +116,7 @@ mlagents-learn player_config.yaml --run-id=CrimsonRun1 --env=Game
 ## Links
 
 - GitHub Repo: [github.com/NisargaVenkatesh/gaming-with-AI-cms-vc-team-project-2025](https://github.com/NisargaVenkatesh/gaming-with-AI-cms-vc-team-project-2025)
-- WebGL Build: _Coming Soon on Itch.io_
-
+- WebGL Build: https://sayandip-s.itch.io/crimson-pact-efe-nisarga-vanshika-sayandip
 ---
 
 ## License
