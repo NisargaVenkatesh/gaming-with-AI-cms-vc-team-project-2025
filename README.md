@@ -31,7 +31,7 @@ Inspired by _Vampire Survivors_, the game is a team project developed under CMS-
 
 ```bash
 TEA TEST ML copy 6/
-├── Assets/                     # Unity scenes, scripts, prefabs, UI
+├── Assets/                    # Unity scenes, scripts, prefabs, UI
 │   ├── MLAgents/              # Agent behaviors and settings
 │   ├── Scenes/                # Game.unity scenes
 │   └── Scripts/               # Scripts: CrimsonPact.cs, GameManager.cs, etc
@@ -39,8 +39,8 @@ TEA TEST ML copy 6/
 ├── Packages/                  # Unity package dependencies
 ├── ProjectSettings/           # Unity build, tag/layer, and input settings
 ├── player_config.yaml         # PPO training configuration
-├── results/                   # Training outputs from ML-Agents
-│   └── run26/                 # Logs, YAML configs, metrics
+│                   
+│                              # Logs, YAML configs, metrics
 ├── README.md                  # Project overview (you’re reading it)
 ├── .gitignore                 # Ignore Unity cache, builds, venvs, etc.
 ```
