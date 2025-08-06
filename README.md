@@ -1,3 +1,4 @@
+![Unity](https://img.shields.io/badge/Unity-2022.3-blue?logo=unity)
 # Crimson Pact: AI-Powered 2D Survival Game
 
 **Crimson Pact** is a 2D rogue-like survival game built using Unity and enhanced with a reinforcement learning agent trained via Unity ML-Agents.  
