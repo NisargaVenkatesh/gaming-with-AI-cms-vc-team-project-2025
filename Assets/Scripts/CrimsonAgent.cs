@@ -5,6 +5,7 @@ using UnityEngine;
 using System.Linq;
 using UnityEngine.Tilemaps;
 
+//Crimson Agent
 [RequireComponent(typeof(PlayerController))]
 public class CrimsonPact : Agent
 {
