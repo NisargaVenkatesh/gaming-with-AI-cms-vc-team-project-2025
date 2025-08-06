@@ -4,6 +4,8 @@
 **Crimson Pact** is a 2D rogue-like survival game built using Unity and enhanced with a reinforcement learning agent trained via Unity ML-Agents.  
 Inspired by _Vampire Survivors_, the game is a team project developed under CMS-VC and CMS-CLS modules at TU Dresden (2025).
 
+<img width="527" height="303" alt="image" src="https://github.com/user-attachments/assets/4f895360-c886-4e90-9a76-f47a9b48a3e1" />
+
 ---
 
 ## Project Objectives
