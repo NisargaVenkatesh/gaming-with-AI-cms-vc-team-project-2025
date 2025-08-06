@@ -486,6 +486,7 @@ public class CrimsonPact : Agent
 
         AddReward(escapeReward);
         rewardFromEscape += escapeReward;
+        
     }
 
     // gizmo for visualizing distances from the agent (for debug)
