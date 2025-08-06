@@ -1,4 +1,9 @@
 # Unity generated folders
+# Ignore Plastic SCM and local settings
+.plastic/
+UserSettings/
+ignore.conf
+.python-version
 [Ll]ibrary/
 [Tt]emp/
 [Oo]bj/
