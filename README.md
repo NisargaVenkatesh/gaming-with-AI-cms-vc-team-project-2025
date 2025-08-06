@@ -1,4 +1,4 @@
-# 🎮 Crimson Pact: AI-Powered 2D Survival Game
+# Crimson Pact: AI-Powered 2D Survival Game
 
 **Crimson Pact** is a 2D rogue-like survival game built using Unity and enhanced with a reinforcement learning agent trained via Unity ML-Agents.  
 Inspired by _Vampire Survivors_, the game is a team project developed under CMS-VC and CMS-CLS modules at TU Dresden (2025).
@@ -65,7 +65,7 @@ pip install mlagents tensorboard matplotlib pandas
 
 ---
 
-### 🧪 Training the Agent
+### Training the Agent
 
 ```bash
 mlagents-learn player_config.yaml --run-id=CrimsonRun1 --env=Game
@@ -110,8 +110,8 @@ mlagents-learn player_config.yaml --run-id=CrimsonRun1 --env=Game
 
 ## Links
 
-- 🔗 GitHub Repo: [github.com/NisargaVenkatesh/gaming-with-AI-cms-vc-team-project-2025](https://github.com/NisargaVenkatesh/gaming-with-AI-cms-vc-team-project-2025)
-- 🎮 WebGL Build: _Coming Soon on Itch.io_
+- GitHub Repo: [github.com/NisargaVenkatesh/gaming-with-AI-cms-vc-team-project-2025](https://github.com/NisargaVenkatesh/gaming-with-AI-cms-vc-team-project-2025)
+- WebGL Build: _Coming Soon on Itch.io_
 
 ---
 
