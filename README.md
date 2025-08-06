@@ -5,6 +5,8 @@
 Inspired by _Vampire Survivors_, the game is a team project developed under CMS-VC and CMS-CLS modules at TU Dresden (2025).
 
 <img width="527" height="303" alt="image" src="https://github.com/user-attachments/assets/4f895360-c886-4e90-9a76-f47a9b48a3e1" />
+<img width="708" height="389" alt="image" src="https://github.com/user-attachments/assets/4afd129f-962c-4957-b2d4-d4616039418b" />
+
 
 ---
 
