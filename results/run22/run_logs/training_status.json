@@ -1,0 +1,56 @@
+{
+    "CrimsonAgent": {
+        "checkpoints": [
+            {
+                "steps": 218487,
+                "file_path": "results/run22/CrimsonAgent/CrimsonAgent-218487.onnx",
+                "reward": 205.08001327514648,
+                "creation_time": 1747695990.0341241,
+                "auxillary_file_paths": [
+                    "results/run22/CrimsonAgent/CrimsonAgent-218487.pt"
+                ]
+            },
+            {
+                "steps": 222617,
+                "file_path": "results/run22/CrimsonAgent/CrimsonAgent-222617.onnx",
+                "reward": null,
+                "creation_time": 1747696513.585334,
+                "auxillary_file_paths": [
+                    "results/run22/CrimsonAgent/CrimsonAgent-222617.pt"
+                ]
+            },
+            {
+                "steps": 226743,
+                "file_path": "results/run22/CrimsonAgent/CrimsonAgent-226743.onnx",
+                "reward": null,
+                "creation_time": 1747697085.070304,
+                "auxillary_file_paths": [
+                    "results/run22/CrimsonAgent/CrimsonAgent-226743.pt"
+                ]
+            },
+            {
+                "steps": 239748,
+                "file_path": "results/run22/CrimsonAgent/CrimsonAgent-239748.onnx",
+                "reward": null,
+                "creation_time": 1747697440.817923,
+                "auxillary_file_paths": [
+                    "results/run22/CrimsonAgent/CrimsonAgent-239748.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 239748,
+            "file_path": "results/run22/CrimsonAgent.onnx",
+            "reward": null,
+            "creation_time": 1747697440.817923,
+            "auxillary_file_paths": [
+                "results/run22/CrimsonAgent/CrimsonAgent-239748.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "1.1.0",
+        "torch_version": "2.1.1"
+    }
+}

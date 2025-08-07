@@ -1,0 +1,65 @@
+{
+    "CrimsonAgent": {
+        "checkpoints": [
+            {
+                "steps": 4330730,
+                "file_path": "results/run36/CrimsonAgent/CrimsonAgent-4330730.onnx",
+                "reward": 1.4738273620605469,
+                "creation_time": 1754143393.6247659,
+                "auxillary_file_paths": [
+                    "results/run36/CrimsonAgent/CrimsonAgent-4330730.pt"
+                ]
+            },
+            {
+                "steps": 4367508,
+                "file_path": "results/run36/CrimsonAgent/CrimsonAgent-4367508.onnx",
+                "reward": 49.17591645941138,
+                "creation_time": 1754143724.3883038,
+                "auxillary_file_paths": [
+                    "results/run36/CrimsonAgent/CrimsonAgent-4367508.pt"
+                ]
+            },
+            {
+                "steps": 4374773,
+                "file_path": "results/run36/CrimsonAgent/CrimsonAgent-4374773.onnx",
+                "reward": 23.33903211802244,
+                "creation_time": 1754143802.446932,
+                "auxillary_file_paths": [
+                    "results/run36/CrimsonAgent/CrimsonAgent-4374773.pt"
+                ]
+            },
+            {
+                "steps": 4499976,
+                "file_path": "results/run36/CrimsonAgent/CrimsonAgent-4499976.onnx",
+                "reward": 107.50178088247776,
+                "creation_time": 1754144241.290488,
+                "auxillary_file_paths": [
+                    "results/run36/CrimsonAgent/CrimsonAgent-4499976.pt"
+                ]
+            },
+            {
+                "steps": 4894898,
+                "file_path": "results/run36/CrimsonAgent/CrimsonAgent-4894898.onnx",
+                "reward": 81.11206508427858,
+                "creation_time": 1754145446.776526,
+                "auxillary_file_paths": [
+                    "results/run36/CrimsonAgent/CrimsonAgent-4894898.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 4894898,
+            "file_path": "results/run36/CrimsonAgent.onnx",
+            "reward": 81.11206508427858,
+            "creation_time": 1754145446.776526,
+            "auxillary_file_paths": [
+                "results/run36/CrimsonAgent/CrimsonAgent-4894898.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "1.1.0",
+        "torch_version": "2.1.1"
+    }
+}

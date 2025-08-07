@@ -1,0 +1,54 @@
+{
+    "name": "root",
+    "metadata": {
+        "timer_format_version": "0.1.0",
+        "start_time_seconds": "1747920570",
+        "python_version": "3.10.12 | packaged by conda-forge | (main, Jun 23 2023, 22:41:52) [Clang 15.0.7 ]",
+        "command_line_arguments": "/opt/miniconda3/envs/mlagents31012/bin/mlagents-learn /Users/efe/Documents/TEA TEST ML/player_config.yaml --run-id=run28 --resume",
+        "mlagents_version": "1.1.0",
+        "mlagents_envs_version": "1.1.0",
+        "communication_protocol_version": "1.5.0",
+        "pytorch_version": "2.1.1",
+        "numpy_version": "1.23.5",
+        "end_time_seconds": "1747920578"
+    },
+    "total": 8.209441041923128,
+    "count": 1,
+    "self": 0.005264375940896571,
+    "children": {
+        "run_training.setup": {
+            "total": 0.018859665957279503,
+            "count": 1,
+            "self": 0.018859665957279503
+        },
+        "TrainerController.start_learning": {
+            "total": 8.185317000024952,
+            "count": 1,
+            "self": 3.975001163780689e-05,
+            "children": {
+                "TrainerController._reset_env": {
+                    "total": 8.118027708027512,
+                    "count": 1,
+                    "self": 8.118027708027512
+                },
+                "trainer_threads": {
+                    "total": 5.00003807246685e-07,
+                    "count": 1,
+                    "self": 5.00003807246685e-07
+                },
+                "TrainerController._save_models": {
+                    "total": 0.0672490419819951,
+                    "count": 1,
+                    "self": 0.0009479590225964785,
+                    "children": {
+                        "RLTrainer._checkpoint": {
+                            "total": 0.06630108295939863,
+                            "count": 1,
+                            "self": 0.06630108295939863
+                        }
+                    }
+                }
+            }
+        }
+    }
+}

@@ -1,0 +1,65 @@
+{
+    "CrimsonAgent": {
+        "checkpoints": [
+            {
+                "steps": 8499877,
+                "file_path": "results/run34/CrimsonAgent/CrimsonAgent-8499877.onnx",
+                "reward": null,
+                "creation_time": 1753975074.991153,
+                "auxillary_file_paths": [
+                    "results/run34/CrimsonAgent/CrimsonAgent-8499877.pt"
+                ]
+            },
+            {
+                "steps": 8999954,
+                "file_path": "results/run34/CrimsonAgent/CrimsonAgent-8999954.onnx",
+                "reward": null,
+                "creation_time": 1753976964.30303,
+                "auxillary_file_paths": [
+                    "results/run34/CrimsonAgent/CrimsonAgent-8999954.pt"
+                ]
+            },
+            {
+                "steps": 9499982,
+                "file_path": "results/run34/CrimsonAgent/CrimsonAgent-9499982.onnx",
+                "reward": 1640.8678734791465,
+                "creation_time": 1753978898.3381498,
+                "auxillary_file_paths": [
+                    "results/run34/CrimsonAgent/CrimsonAgent-9499982.pt"
+                ]
+            },
+            {
+                "steps": 9999891,
+                "file_path": "results/run34/CrimsonAgent/CrimsonAgent-9999891.onnx",
+                "reward": null,
+                "creation_time": 1753980815.048,
+                "auxillary_file_paths": [
+                    "results/run34/CrimsonAgent/CrimsonAgent-9999891.pt"
+                ]
+            },
+            {
+                "steps": 10000019,
+                "file_path": "results/run34/CrimsonAgent/CrimsonAgent-10000019.onnx",
+                "reward": null,
+                "creation_time": 1753980815.090539,
+                "auxillary_file_paths": [
+                    "results/run34/CrimsonAgent/CrimsonAgent-10000019.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 10000019,
+            "file_path": "results/run34/CrimsonAgent.onnx",
+            "reward": null,
+            "creation_time": 1753980815.090539,
+            "auxillary_file_paths": [
+                "results/run34/CrimsonAgent/CrimsonAgent-10000019.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "1.1.0",
+        "torch_version": "2.1.1"
+    }
+}

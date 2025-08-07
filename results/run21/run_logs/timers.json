@@ -1,0 +1,42 @@
+{
+    "name": "root",
+    "metadata": {
+        "timer_format_version": "0.1.0",
+        "start_time_seconds": "1747692631",
+        "python_version": "3.10.12 | packaged by conda-forge | (main, Jun 23 2023, 22:41:52) [Clang 15.0.7 ]",
+        "command_line_arguments": "/opt/miniconda3/envs/mlagents31012/bin/mlagents-learn /Users/efe/Documents/TEA TEST ML/player_config.yaml --run-id=run21 --base-port=5007",
+        "mlagents_version": "1.1.0",
+        "mlagents_envs_version": "1.1.0",
+        "communication_protocol_version": "1.5.0",
+        "pytorch_version": "2.1.1",
+        "numpy_version": "1.23.5",
+        "end_time_seconds": "1747692632"
+    },
+    "total": 0.889972958015278,
+    "count": 1,
+    "self": 0.003240749938413501,
+    "children": {
+        "run_training.setup": {
+            "total": 0.014708958100527525,
+            "count": 1,
+            "self": 0.014708958100527525
+        },
+        "TrainerController.start_learning": {
+            "total": 0.872023249976337,
+            "count": 1,
+            "self": 4.11659711971879e-05,
+            "children": {
+                "TrainerController._reset_env": {
+                    "total": 0.8719605419319123,
+                    "count": 1,
+                    "self": 0.8719605419319123
+                },
+                "TrainerController._save_models": {
+                    "total": 2.1542073227465153e-05,
+                    "count": 1,
+                    "self": 2.1542073227465153e-05
+                }
+            }
+        }
+    }
+}

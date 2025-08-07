@@ -1,0 +1,29 @@
+{
+    "CrimsonAgent": {
+        "checkpoints": [
+            {
+                "steps": 2,
+                "file_path": "results/run05/CrimsonAgent/CrimsonAgent-2.onnx",
+                "reward": 0.0,
+                "creation_time": 1747686262.063992,
+                "auxillary_file_paths": [
+                    "results/run05/CrimsonAgent/CrimsonAgent-2.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 2,
+            "file_path": "results/run05/CrimsonAgent.onnx",
+            "reward": 0.0,
+            "creation_time": 1747686262.063992,
+            "auxillary_file_paths": [
+                "results/run05/CrimsonAgent/CrimsonAgent-2.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "1.1.0",
+        "torch_version": "2.1.1"
+    }
+}

@@ -1,0 +1,38 @@
+{
+    "CrimsonAgent": {
+        "checkpoints": [
+            {
+                "steps": 499983,
+                "file_path": "results/run38/CrimsonAgent/CrimsonAgent-499983.onnx",
+                "reward": -57.496084593236446,
+                "creation_time": 1754161618.4468858,
+                "auxillary_file_paths": [
+                    "results/run38/CrimsonAgent/CrimsonAgent-499983.pt"
+                ]
+            },
+            {
+                "steps": 540520,
+                "file_path": "results/run38/CrimsonAgent/CrimsonAgent-540520.onnx",
+                "reward": -173.00204584995905,
+                "creation_time": 1754161835.094275,
+                "auxillary_file_paths": [
+                    "results/run38/CrimsonAgent/CrimsonAgent-540520.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 540520,
+            "file_path": "results/run38/CrimsonAgent.onnx",
+            "reward": -173.00204584995905,
+            "creation_time": 1754161835.094275,
+            "auxillary_file_paths": [
+                "results/run38/CrimsonAgent/CrimsonAgent-540520.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "1.1.0",
+        "torch_version": "2.1.1"
+    }
+}
